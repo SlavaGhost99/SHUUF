@@ -39,3 +39,6 @@ packages/
 /key*
 /token.txt
 /.gitignore
+
+*.zip
+*.ASD
